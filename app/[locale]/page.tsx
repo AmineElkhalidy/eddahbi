@@ -36,7 +36,7 @@ export default function LandingPage() {
               href="https://wa.me/212651421870"
               target="_blank"
               rel="noopener noreferrer"
-              className="rounded-full bg-clinic-primary px-6 py-3 text-sm font-semibold text-white transition hover:bg-clinic-dark"
+              className="rounded-full border bg-[#0B5D34] bg-clinic-primary px-6 py-3 text-sm font-semibold text-white transition hover:bg-clinic-dark"
             >
               {t("hero.book")}
             </a>
