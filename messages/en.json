@@ -1,0 +1,32 @@
+{
+  "navbar": {
+    "brand": "Dr. Youssef Eddahbi Clinic",
+    "about": "About",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "General Practitioner",
+    "name": "Dr. Youssef Eddahbi",
+    "subtitle": "General Practitioner / Medecin Generaliste / طبيب عام",
+    "book": "Book Appointment",
+    "services": "Our Services"
+  },
+  "about": {
+    "title": "About the Doctor",
+    "description": "Dr. Youssef Eddahbi is a dedicated general practitioner and graduate of the Faculty of Medicine and Pharmacy of Marrakesh (FMPM), committed to delivering personalized and preventive care."
+  },
+  "services": {
+    "title": "Medical Services",
+    "items": [
+      "General Consultations",
+      "Chronic Disease Monitoring",
+      "Medical Certificates"
+    ]
+  },
+  "contact": {
+    "title": "Contact & Location",
+    "address": "Attaouia, Morocco",
+    "hours": "By appointment and walk-in consultations."
+  }
+}

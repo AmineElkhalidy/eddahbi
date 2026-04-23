@@ -1,0 +1,32 @@
+{
+  "navbar": {
+    "brand": "Cabinet Dr Youssef Eddahbi",
+    "about": "A propos",
+    "services": "Services",
+    "contact": "Contact"
+  },
+  "hero": {
+    "badge": "Medecin Generaliste",
+    "name": "Dr. Youssef Eddahbi",
+    "subtitle": "Medecin Generaliste / طبيب عام",
+    "book": "Prendre rendez-vous",
+    "services": "Nos services"
+  },
+  "about": {
+    "title": "A propos du medecin",
+    "description": "Le Dr Youssef Eddahbi est medecin generaliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM), offrant une prise en charge humaine et moderne."
+  },
+  "services": {
+    "title": "Services medicaux",
+    "items": [
+      "Consultations generales",
+      "Suivi des maladies chroniques",
+      "Certificats medicaux"
+    ]
+  },
+  "contact": {
+    "title": "Contact et localisation",
+    "address": "Attaouia, Maroc",
+    "hours": "Consultations avec ou sans rendez-vous."
+  }
+}
