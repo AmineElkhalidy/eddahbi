@@ -8,13 +8,13 @@
   "hero": {
     "badge": "Medecin Generaliste",
     "name": "Dr. Youssef Eddahbi",
-    "subtitle": "Medecin Generaliste / طبيب عام",
+    "subtitle": "Médecin Généraliste / طبيب عام",
     "book": "Prendre rendez-vous",
     "services": "Nos services"
   },
   "about": {
     "title": "A propos du medecin",
-    "description": "Le Dr Youssef Eddahbi est medecin generaliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM), offrant une prise en charge humaine et moderne."
+    "description": "Le Dr Youssef Eddahbi est médecin généraliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM), offrant une prise en charge humaine et moderne."
   },
   "services": {
     "title": "Services medicaux",
