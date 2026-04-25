@@ -11,6 +11,8 @@ import { AnimatedSection } from "@/components/animated-section";
 import { Navbar } from "@/components/navbar";
 
 const serviceIcons = [Stethoscope, HeartPulse, FileCheck2] as const;
+const mapLink =
+  "https://www.google.com/maps/place/Milan+Caf%C3%A9/@31.8307249,-7.3121125,39m/data=!3m1!1e3!4m15!1m8!3m7!1s0xda516fb906ce745:0x7c4f95795ff07658!2sLaattaouia!3b1!8m2!3d31.8348202!4d-7.3122951!16s%2Fm%2F0b6jf1w!3m5!1s0xda51773fdf89f29:0x9b9ee27403113f13!8m2!3d31.830735!4d-7.3119911!16s%2Fg%2F11tss5hp1c!5m1!1e2?entry=ttu&g_ep=EgoyMDI2MDQyMC4wIKXMDSoASAFQAw%3D%3D";
 
 export default function LandingPage() {
   const t = useTranslations();
@@ -92,13 +94,30 @@ export default function LandingPage() {
             <div className="space-y-4">
               <div className="flex items-center gap-3 rtl:flex-row-reverse">
                 <MapPin className="h-5 w-5 text-clinic-primary" />
-                <p>{t("contact.address")}</p>
+                <a
+                  href={mapLink}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="underline decoration-clinic-light underline-offset-4 transition hover:text-clinic-primary"
+                >
+                  {t("contact.address")}
+                </a>
               </div>
               <div className="flex items-start gap-3 rtl:flex-row-reverse">
                 <Phone className="mt-1 h-5 w-5 text-clinic-primary" />
                 <div className="space-y-1">
-                  <p>0651421870</p>
-                  <p>0524235976</p>
+                  <a
+                    href="tel:+212651421870"
+                    className="block decoration-clinic-light underline-offset-4 transition hover:text-clinic-primary"
+                  >
+                    0651421870
+                  </a>
+                  <a
+                    href="tel:+212524235976"
+                    className="block decoration-clinic-light underline-offset-4 transition hover:text-clinic-primary"
+                  >
+                    0524235976
+                  </a>
                 </div>
               </div>
               <div className="flex items-center gap-3 rtl:flex-row-reverse">

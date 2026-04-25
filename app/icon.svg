@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Dr. Youssef Eddahbi Clinic favicon">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#E6F4EA" />
+      <stop offset="100%" stop-color="#3CB059" />
+    </linearGradient>
+  </defs>
+  <rect x="4" y="4" width="56" height="56" rx="14" fill="url(#bg)" />
+  <path
+    d="M29 16h6v10h10v6H35v10h-6V32H19v-6h10V16z"
+    fill="#0B5D34"
+  />
+  <circle cx="48" cy="48" r="8" fill="#148046" />
+  <circle cx="48" cy="48" r="3.2" fill="#ffffff" />
+</svg>
