@@ -3,30 +3,117 @@
     "brand": "Dr. Youssef Eddahbi",
     "about": "About",
     "services": "Services",
-    "contact": "Contact"
+    "values": "Why us",
+    "testimonials": "Reviews",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Close"
   },
   "hero": {
     "badge": "General Practitioner",
     "name": "Dr. Youssef Eddahbi",
-    "subtitle": "General Practitioner / Médecin Généraliste / طبيب عام",
-    "book": "Book Appointment",
-    "services": "Our Services"
+    "tagline": "Caring for your health, close to home.",
+    "subtitle": "Personalized, modern and preventive care for the whole family — in Attaouia, Morocco.",
+    "book": "Book on WhatsApp",
+    "call": "Call the clinic",
+    "services": "Our services",
+    "pills": {
+      "location": "Attaouia, Morocco",
+      "languages": "EN · FR · AR",
+      "walkin": "Walk-ins welcome"
+    }
+  },
+  "trust": {
+    "title": "Quick facts",
+    "items": {
+      "graduate": {
+        "title": "FMPM Graduate",
+        "description": "Faculty of Medicine, Marrakesh"
+      },
+      "languages": {
+        "title": "Multilingual",
+        "description": "English · French · Arabic"
+      },
+      "approach": {
+        "title": "Preventive Care",
+        "description": "Long-term, holistic follow-up"
+      },
+      "access": {
+        "title": "Easy Access",
+        "description": "Appointments and walk-ins"
+      }
+    }
   },
   "about": {
     "title": "About the Doctor",
-    "description": "Dr. Youssef Eddahbi is a dedicated general practitioner and graduate of the Faculty of Medicine and Pharmacy of Marrakesh (FMPM), committed to delivering personalized and preventive care."
+    "description": "Dr. Youssef Eddahbi is a general practitioner and graduate of the Faculty of Medicine and Pharmacy of Marrakesh (FMPM). He is committed to delivering personalized, evidence-based and preventive care — taking the time to listen, explain and follow up with every patient."
   },
   "services": {
     "title": "Medical Services",
+    "subtitle": "Everyday medicine, delivered with attention and care.",
     "items": [
-      "General Consultations",
-      "Chronic Disease Monitoring",
-      "Medical Certificates"
+      {
+        "title": "General Consultations",
+        "description": "Diagnosis, treatment and personalized advice for adults and children."
+      },
+      {
+        "title": "Chronic Disease Monitoring",
+        "description": "Long-term follow-up for diabetes, hypertension and other conditions."
+      },
+      {
+        "title": "Medical Certificates",
+        "description": "Sport, work, school and travel certificates issued on the spot."
+      }
     ]
+  },
+  "values": {
+    "title": "Why patients choose this clinic",
+    "subtitle": "A modern, human approach — with the basics done right.",
+    "items": {
+      "personal": {
+        "title": "Personalized care",
+        "description": "Time taken to listen, explain and tailor every plan."
+      },
+      "multilingual": {
+        "title": "Three languages",
+        "description": "Consultations in English, French and Arabic."
+      },
+      "modern": {
+        "title": "Modern practice",
+        "description": "Up-to-date guidelines, clean and welcoming space."
+      },
+      "accessible": {
+        "title": "Always accessible",
+        "description": "Direct line, WhatsApp and walk-in friendly."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "Trusted by patients",
+    "subtitle": "Real feedback from verified Google reviews.",
+    "rating": "{average} from {count} reviews on Google",
+    "viewAll": "Read all reviews on Google",
+    "writeReview": "Write a review",
+    "viaGoogle": "via Google",
+    "verified": "Verified Google review"
   },
   "contact": {
     "title": "Contact & Location",
+    "subtitle": "Reach out — by phone, WhatsApp or in person.",
     "address": "Attaouia, Morocco",
-    "hours": "By appointment and walk-in consultations."
+    "hours": "By appointment and walk-in consultations.",
+    "phoneLabel": "Phone",
+    "addressLabel": "Address",
+    "hoursLabel": "Hours",
+    "whatsapp": "Chat on WhatsApp",
+    "directions": "Get directions"
+  },
+  "footer": {
+    "tagline": "General Practitioner · Attaouia, Morocco",
+    "rights": "All rights reserved.",
+    "made": "Crafted with care."
+  },
+  "whatsapp": {
+    "label": "Chat on WhatsApp"
   }
 }

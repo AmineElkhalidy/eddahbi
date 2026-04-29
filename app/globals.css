@@ -1,28 +1,67 @@
 @import "tailwindcss";
 
 :root {
-  --background: #f8faf8;
-  --foreground: #123524;
+  --background: #f6faf7;
+  --foreground: #0B3B22;
   --card: #ffffff;
+  --muted: #4f6b5b;
+  --ring: #148046;
 }
 
 @theme inline {
   --color-background: var(--background);
   --color-foreground: var(--foreground);
   --color-card: var(--card);
+  --color-muted: var(--muted);
   --font-sans: var(--font-inter);
+}
+
+html {
+  scroll-behavior: smooth;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
 }
 
 body {
   background: var(--background);
   color: var(--foreground);
   font-family: var(--font-inter), Arial, Helvetica, sans-serif;
-}
-
-html {
-  scroll-behavior: smooth;
+  background-image:
+    radial-gradient(60rem 40rem at 12% -10%, rgba(60, 176, 89, 0.18), transparent 60%),
+    radial-gradient(50rem 36rem at 100% 0%, rgba(20, 128, 70, 0.12), transparent 55%),
+    radial-gradient(40rem 30rem at 50% 110%, rgba(230, 244, 234, 0.8), transparent 65%);
+  background-attachment: fixed;
 }
 
 section {
-  scroll-margin-top: 100px;
+  scroll-margin-top: 96px;
+}
+
+/* Subtle dotted backdrop utility used by the hero */
+.bg-dots {
+  background-image: radial-gradient(rgba(11, 93, 52, 0.12) 1px, transparent 1px);
+  background-size: 18px 18px;
+  background-position: 0 0;
+  -webkit-mask-image: radial-gradient(closest-side, #000 55%, transparent 100%);
+          mask-image: radial-gradient(closest-side, #000 55%, transparent 100%);
+}
+
+/* Smoother focus ring for keyboard users */
+:where(a, button, [role="button"], input, select, textarea):focus-visible {
+  outline: 2px solid var(--ring);
+  outline-offset: 2px;
+  border-radius: 12px;
+}
+
+/* Respect reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.001ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.001ms !important;
+    scroll-behavior: auto !important;
+  }
 }

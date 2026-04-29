@@ -3,30 +3,117 @@
     "brand": "Dr. Youssef Eddahbi",
     "about": "A propos",
     "services": "Services",
-    "contact": "Contact"
+    "values": "Pourquoi nous",
+    "testimonials": "Avis",
+    "contact": "Contact",
+    "menu": "Menu",
+    "close": "Fermer"
   },
   "hero": {
     "badge": "Medecin Generaliste",
     "name": "Dr. Youssef Eddahbi",
-    "subtitle": "Médecin Généraliste / طبيب عام",
-    "book": "Prendre rendez-vous",
-    "services": "Nos services"
+    "tagline": "Votre sante, prise en main pres de chez vous.",
+    "subtitle": "Une medecine personnalisee, moderne et preventive pour toute la famille, a Attaouia, Maroc.",
+    "book": "Prendre RDV sur WhatsApp",
+    "call": "Appeler le cabinet",
+    "services": "Nos services",
+    "pills": {
+      "location": "Attaouia, Maroc",
+      "languages": "FR · AR · EN",
+      "walkin": "Sans rendez-vous"
+    }
+  },
+  "trust": {
+    "title": "En bref",
+    "items": {
+      "graduate": {
+        "title": "Diplome FMPM",
+        "description": "Faculte de Medecine de Marrakech"
+      },
+      "languages": {
+        "title": "Multilingue",
+        "description": "Francais · Arabe · Anglais"
+      },
+      "approach": {
+        "title": "Approche preventive",
+        "description": "Suivi long terme et global"
+      },
+      "access": {
+        "title": "Acces facile",
+        "description": "Sur rendez-vous ou en visite libre"
+      }
+    }
   },
   "about": {
     "title": "A propos du medecin",
-    "description": "Le Dr Youssef Eddahbi est médecin généraliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM), offrant une prise en charge humaine et moderne."
+    "description": "Le Dr Youssef Eddahbi est medecin generaliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM). Il s'engage a offrir une prise en charge personnalisee, fondee sur les preuves et orientee prevention — en prenant le temps d'ecouter, d'expliquer et d'assurer un suivi attentif."
   },
   "services": {
     "title": "Services medicaux",
+    "subtitle": "Une medecine du quotidien, delivree avec attention.",
     "items": [
-      "Consultations generales",
-      "Suivi des maladies chroniques",
-      "Certificats medicaux"
+      {
+        "title": "Consultations generales",
+        "description": "Diagnostic, traitement et conseils personnalises pour adultes et enfants."
+      },
+      {
+        "title": "Suivi des maladies chroniques",
+        "description": "Accompagnement du diabete, de l'hypertension et autres pathologies."
+      },
+      {
+        "title": "Certificats medicaux",
+        "description": "Certificats sport, travail, scolaires et de voyage delivres sur place."
+      }
     ]
+  },
+  "values": {
+    "title": "Pourquoi choisir ce cabinet",
+    "subtitle": "Une approche humaine et moderne — l'essentiel, bien fait.",
+    "items": {
+      "personal": {
+        "title": "Suivi personnalise",
+        "description": "Le temps d'ecouter, d'expliquer et d'adapter chaque plan."
+      },
+      "multilingual": {
+        "title": "Trois langues",
+        "description": "Consultations en francais, arabe et anglais."
+      },
+      "modern": {
+        "title": "Cabinet moderne",
+        "description": "Guidelines a jour, espace propre et accueillant."
+      },
+      "accessible": {
+        "title": "Toujours accessible",
+        "description": "Telephone, WhatsApp et accueil sans rendez-vous."
+      }
+    }
+  },
+  "testimonials": {
+    "title": "La confiance de nos patients",
+    "subtitle": "Des temoignages authentiques verifies par Google.",
+    "rating": "{average} sur {count} avis Google",
+    "viewAll": "Lire tous les avis sur Google",
+    "writeReview": "Laisser un avis",
+    "viaGoogle": "via Google",
+    "verified": "Avis Google verifie"
   },
   "contact": {
     "title": "Contact et localisation",
+    "subtitle": "Contactez-nous — par telephone, WhatsApp ou en personne.",
     "address": "Attaouia, Maroc",
-    "hours": "Consultations avec ou sans rendez-vous."
+    "hours": "Consultations avec ou sans rendez-vous.",
+    "phoneLabel": "Telephone",
+    "addressLabel": "Adresse",
+    "hoursLabel": "Horaires",
+    "whatsapp": "Discuter sur WhatsApp",
+    "directions": "Itineraire"
+  },
+  "footer": {
+    "tagline": "Medecin Generaliste · Attaouia, Maroc",
+    "rights": "Tous droits reserves.",
+    "made": "Concu avec soin."
+  },
+  "whatsapp": {
+    "label": "Discuter sur WhatsApp"
   }
 }
