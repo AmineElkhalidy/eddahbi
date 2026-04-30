@@ -1,7 +1,7 @@
 {
   "navbar": {
     "brand": "Dr. Youssef Eddahbi",
-    "about": "A propos",
+    "about": "À propos",
     "services": "Services",
     "values": "Pourquoi nous",
     "testimonials": "Avis",
@@ -10,10 +10,10 @@
     "close": "Fermer"
   },
   "hero": {
-    "badge": "Medecin Generaliste",
+    "badge": "Médecin généraliste",
     "name": "Dr. Youssef Eddahbi",
-    "tagline": "Votre sante, prise en main pres de chez vous.",
-    "subtitle": "Une medecine personnalisee, moderne et preventive pour toute la famille, a Attaouia, Maroc.",
+    "tagline": "Votre santé, prise en charge près de chez vous.",
+    "subtitle": "Une médecine personnalisée, moderne et préventive pour toute la famille, à Attaouia, Maroc.",
     "book": "Prendre RDV sur WhatsApp",
     "call": "Appeler le cabinet",
     "services": "Nos services",
@@ -27,91 +27,91 @@
     "title": "En bref",
     "items": {
       "graduate": {
-        "title": "Diplome FMPM",
-        "description": "Faculte de Medecine de Marrakech"
+        "title": "Diplômé de la FMPM",
+        "description": "Faculté de médecine de Marrakech"
       },
       "languages": {
         "title": "Multilingue",
-        "description": "Francais · Arabe · Anglais"
+        "description": "Français · Arabe · Anglais"
       },
       "approach": {
-        "title": "Approche preventive",
-        "description": "Suivi long terme et global"
+        "title": "Approche préventive",
+        "description": "Suivi à long terme et global"
       },
       "access": {
-        "title": "Acces facile",
-        "description": "Sur rendez-vous ou en visite libre"
+        "title": "Accès facile",
+        "description": "Sur rendez-vous ou sans rendez-vous"
       }
     }
   },
   "about": {
-    "title": "A propos du medecin",
-    "description": "Le Dr Youssef Eddahbi est medecin generaliste, laureat de la Faculte de Medecine et de Pharmacie de Marrakech (FMPM). Il s'engage a offrir une prise en charge personnalisee, fondee sur les preuves et orientee prevention — en prenant le temps d'ecouter, d'expliquer et d'assurer un suivi attentif."
+    "title": "À propos du médecin",
+    "description": "Le Dr Youssef Eddahbi est médecin généraliste, lauréat de la Faculté de médecine et de pharmacie de Marrakech (FMPM). Il s’engage à offrir une prise en charge personnalisée, fondée sur les preuves et orientée prévention — en prenant le temps d’écouter, d’expliquer et d’assurer un suivi attentif."
   },
   "services": {
-    "title": "Services medicaux",
-    "subtitle": "Une medecine du quotidien, delivree avec attention.",
+    "title": "Services médicaux",
+    "subtitle": "Une médecine du quotidien, dispensée avec attention.",
     "items": [
       {
-        "title": "Consultations generales",
-        "description": "Diagnostic, traitement et conseils personnalises pour adultes et enfants."
+        "title": "Consultations générales",
+        "description": "Diagnostic, traitement et conseils personnalisés pour adultes et enfants."
       },
       {
         "title": "Suivi des maladies chroniques",
-        "description": "Accompagnement du diabete, de l'hypertension et autres pathologies."
+        "description": "Accompagnement du diabète, de l’hypertension et d’autres pathologies."
       },
       {
-        "title": "Certificats medicaux",
-        "description": "Certificats sport, travail, scolaires et de voyage delivres sur place."
+        "title": "Certificats médicaux",
+        "description": "Certificats sportifs, pour le travail, scolaires ou de voyage, délivrés sur place."
       }
     ]
   },
   "values": {
     "title": "Pourquoi choisir ce cabinet",
-    "subtitle": "Une approche humaine et moderne — l'essentiel, bien fait.",
+    "subtitle": "Une approche humaine et moderne — l’essentiel, bien fait.",
     "items": {
       "personal": {
-        "title": "Suivi personnalise",
-        "description": "Le temps d'ecouter, d'expliquer et d'adapter chaque plan."
+        "title": "Suivi personnalisé",
+        "description": "Le temps d’écouter, d’expliquer et d’adapter chaque parcours."
       },
       "multilingual": {
         "title": "Trois langues",
-        "description": "Consultations en francais, arabe et anglais."
+        "description": "Consultations en français, arabe et anglais."
       },
       "modern": {
         "title": "Cabinet moderne",
-        "description": "Guidelines a jour, espace propre et accueillant."
+        "description": "Recommandations à jour, cabinet propre et accueillant."
       },
       "accessible": {
-        "title": "Toujours accessible",
-        "description": "Telephone, WhatsApp et accueil sans rendez-vous."
+        "title": "Toujours joignable",
+        "description": "Téléphone, WhatsApp et accueil sans rendez-vous."
       }
     }
   },
   "testimonials": {
     "title": "La confiance de nos patients",
-    "subtitle": "Des temoignages authentiques verifies par Google.",
+    "subtitle": "Des témoignages authentiques vérifiés via Google.",
     "rating": "{average} sur {count} avis Google",
     "viewAll": "Lire tous les avis sur Google",
     "writeReview": "Laisser un avis",
     "viaGoogle": "via Google",
-    "verified": "Avis Google verifie"
+    "verified": "Avis Google vérifié"
   },
   "contact": {
     "title": "Contact et localisation",
-    "subtitle": "Contactez-nous — par telephone, WhatsApp ou en personne.",
+    "subtitle": "Contactez-nous — par téléphone, WhatsApp ou sur place.",
     "address": "Attaouia, Maroc",
     "hours": "Consultations avec ou sans rendez-vous.",
-    "phoneLabel": "Telephone",
+    "phoneLabel": "Téléphone",
     "addressLabel": "Adresse",
     "hoursLabel": "Horaires",
     "whatsapp": "Discuter sur WhatsApp",
-    "directions": "Itineraire"
+    "directions": "Itinéraire"
   },
   "footer": {
-    "tagline": "Medecin Generaliste · Attaouia, Maroc",
-    "rights": "Tous droits reserves.",
-    "made": "Concu avec soin."
+    "tagline": "Médecin généraliste · Attaouia, Maroc",
+    "rights": "Tous droits réservés.",
+    "made": "Conçu avec soin."
   },
   "whatsapp": {
     "label": "Discuter sur WhatsApp"
